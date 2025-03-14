@@ -4,7 +4,7 @@ readonly Project_Name="GRUB2_ELEGANT_THEMES"
 readonly MAX_DELAY=20                               # max delay for user to enter root password
 tui_root_login=
 
-THEME_NAME=Matrices
+THEME_NAME=Particle
 GRUB_DIR="/usr/share/grub/themes"
 REO_DIR="$(cd $(dirname $0) && pwd)"
 
