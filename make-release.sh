@@ -2,7 +2,7 @@
 
 OPEN_DIR=$(cd $(dirname $0) && pwd)
 
-THEME_NAME=Particle
+THEME_NAME=Matrices
 
 SCREEN_VARIANTS=('1080p' '2k' '4k')
 THEME_VARIANTS=('window' 'sidebar')
