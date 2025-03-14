@@ -14,7 +14,7 @@ Usage: $0 [OPTION]...
 OPTIONS:
   -t, --theme     Background theme variant(s) [window|sidebar] (default is window)
   -s, --screen    Screen display variant(s)   [1080p|2k|4k] (default is 1080p)
-  -r, --remove    Remove/Uninstall theme      (must add theme options, default is Particle-window)
+  -r, --remove    Remove/Uninstall theme      (must add theme options, default is Matrices-window)
   -b, --boot      Install theme into '/boot/grub' or '/boot/grub2'
   -h, --help      Show this help
 
